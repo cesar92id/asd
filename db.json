@@ -4,7 +4,7 @@
     "id": 1,
     "title": "Curso de Python desde Cero para Principiantes",
     "categorie": "Python",
-    "description": "Curso de Python para principiantes desde cero en el cual se cubre lo fundamental en cuanto a conceptos y se aprende a aplicar tales conceptos vía código escrito en la terminal o editor de modo de tener un feedback inmediato de comprensión",
+    "description": "Curso de Python para principiantes desde cero en el cual se cubre lo fundamental en cuanto a conceptos ",
     "url": "https://www.youtube.com/embed/Kp4Mvapo5kc",
     "image": "https://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpgImage preview"
     },
@@ -12,7 +12,7 @@
     "id": 2,
     "title": "Curso Completo de Javascript desde Cero",
     "categorie": "JavaScript",
-    "description": "Curso de JavaScript muy completo en el cual se aborda lo fundamental en relación a conceptos y su aplicación inmediata escribiendo código en un editor o terminal de modo de tener un feedback inmediato de aprendizaje",
+    "description": "Curso de JavaScript muy completo en el cual se aborda lo fundamental en relación a conceptos y su aplicación",
     "url": "https://www.youtube.com/embed/Eh-s-n_6zNQ",
     "image": "https://i3.ytimg.com/vi/Eh-s-n_6zNQ/maxresdefault.jpgImage preview"
     },
@@ -52,7 +52,7 @@
     "id": 7,
     "title": "All The JavaScript You Need To Know For React",
     "categorie": "JavaScript",
-    "description": "Curso sobre aspectos esenciales de JavaScript para comprender la librería React.js",
+    "description": "Curso sobre aspectos esenciales de JavaScript",
     "url": "https://www.youtube.com/embed/m55PTVUrlnA",
     "image": "https://i3.ytimg.com/vi/m55PTVUrlnA/maxresdefault.jpgImage preview"
     },
@@ -60,7 +60,7 @@
     "id": 8,
     "title": "Harvard CS50`s Introduction to Programming with Python",
     "categorie": "Python",
-    "description": "Curso extremadamente completo sobre lo fundamental de Python desde un nivel básico a medio alto.",
+    "description": "Curso extremadamente completo sobre lo fundamental de Python.",
     "url": "https://www.youtube.com/embed/nLRL_NcnK-4",
     "image": "https://i3.ytimg.com/vi/nLRL_NcnK-4/maxresdefault.jpgImage preview"
     },
@@ -76,7 +76,7 @@
     "id": 10,
     "title": "Learn Python With This ONE Project!",
     "categorie": "Python",
-    "description": "Curso de Python practico en el cual se aprenden o fortalecen conceptos haciendo (hands-on)",
+    "description": "Curso de Python practico en el cual se aprenden",
     "url": "https://www.youtube.com/embed/th4OBktqK1I",
     "image": "https://i3.ytimg.com/vi/th4OBktqK1I/maxresdefault.jpgImage preview"
     },
@@ -84,7 +84,7 @@
     "id": 11,
     "title": "Python Object Oriented Programming (OOP) - For Beginners",
     "categorie": "Python",
-    "description": "Curso de Python enfocado en la programación orientada a objetos. Dicho paradigma de programación es el predominante hoy en día y dominarlo te abre las puertas de la programación a nivel avanzado",
+    "description": "Curso de Python enfocado en la programación orientada a objetos",
     "url": "https://www.youtube.com/embed/JeznW_7DlB0",
     "image": "https://i3.ytimg.com/vi/JeznW_7DlB0/maxresdefault.jpgImage preview"
     },
@@ -116,7 +116,7 @@
     "id": 15,
     "title": "HTML Full Course - Build a Website Tutorial",
     "categorie": "HTML",
-    "description": "Curso de HTML5 de la plataforma FreeCodeCamp el cual tiene sobre 4 Millones de Vistas, ideal para principiantes",
+    "description": "Curso de HTML5 de la plataforma FreeCodeCamp ",
     "url": "https://www.youtube.com/embed/pQN-pnXPaVg",
     "image": "https://i3.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpgImage preview"
     },
@@ -140,7 +140,7 @@
     "id": 18,
     "title": "Tutorial HTML desde Cero-HTML5 Para PRINCIPIANTES",
     "categorie": "HTML",
-    "description": "Curso Completo de HTML5 en español bastante comprensible y útil para principiantes hecho en el editor Visual Studio Code",
+    "description": "Curso Completo de HTML5 en español bastante comprensible y útil para principiantes",
     "url": "https://www.youtube.com/embed/vz4z0RLcAyk",
     "image": "https://i3.ytimg.com/vi/vz4z0RLcAyk/maxresdefault.jpgImage preview"
     },
@@ -156,7 +156,7 @@
     "id": 20,
     "title": "Curso de CSS desde CERO (Completo)",
     "categorie": "CSS",
-    "description": "Curso para aprender CSS en español con más de 3.5 millones de vistas y más de 9 horas de contenido ideal para principiantes",
+    "description": "Curso para aprender CSS en español con más de 3.5 millones de vistas",
     "url": "https://www.youtube.com/embed/OWKXEJN67FE",
     "image": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpgImage preview"
     },
@@ -172,7 +172,7 @@
     "id": 22,
     "title": "Aprende html y css! con 5 proyectos incluidos",
     "categorie": "CSS",
-    "description": "Curso de aplicación de HTML y CSS con proyecto incluidos. Más de 6 horas de contenido",
+    "description": "Curso de aplicación de HTML y CSS con proyecto incluidos",
     "url": "https://www.youtube.com/embed/AXPASVeX74o",
     "image": "https://i3.ytimg.com/vi/AXPASVeX74o/maxresdefault.jpgImage preview"
     },
@@ -205,19 +205,19 @@
         {
             "id": 1,
             "name": "Python",
-            "description": "Lenguaje Script de sintaxis sencilla y de curva de aprendizaje rapida. Posee numerosas librerias y cada vez se hace más poderoso.",
+            "description": "Lenguaje Script de sintaxis sencilla y de curva de aprendizaje rapida. ",
             "color": "#6BD1FF"
             },
             {
             "id": 2,
             "name": "JavaScript",
-            "description": "Lenguaje Script de la web el cual se hace más poderoso con el tiempo gracias a innumerables librerias y el paradigma JavaScript Everywhere",
+            "description": "Lenguaje Script de la web el cual se hace más poderoso con el tiempo gracias ",
             "color": "#9CD33B"
             },
             {
             "id": 3,
             "name": "HTML",
-            "description": "Lenguaje de marcado con el que se estructuran sitios web. Fundamental en desarrollo web",
+            "description": "Lenguaje de marcado con el que se estructuran sitios web. F",
             "color": "#00C86F"
             },
             {
