@@ -6,7 +6,7 @@
     "categorie": "Python",
     "description": "Curso de Python para principiantes desde cero en el cual se cubre lo fundamental en cuanto a conceptos ",
     "url": "https://www.youtube.com/embed/Kp4Mvapo5kc",
-    "image": "https://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg"
     },
     {
     "id": 2,
@@ -14,7 +14,7 @@
     "categorie": "JavaScript",
     "description": "Curso de JavaScript muy completo en el cual se aborda lo fundamental en relación a conceptos y su aplicación",
     "url": "https://www.youtube.com/embed/Eh-s-n_6zNQ",
-    "image": "https://i3.ytimg.com/vi/Eh-s-n_6zNQ/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/Eh-s-n_6zNQ/maxresdefault.jpg"
     },
     {
     "id": 3,
@@ -22,7 +22,7 @@
     "categorie": "JavaScript",
     "description": "Curso de Node.js y Express.js en el cual se aborda lo fundamental en el lado del backend o servidor",
     "url": "https://www.youtube.com/embed/1hpc70_OoAg",
-    "image": "https://i3.ytimg.com/vi/1hpc70_OoAg/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/1hpc70_OoAg/maxresdefault.jpg"
     },
     {
     "id": 4,
@@ -30,7 +30,7 @@
     "categorie": "JavaScript",
     "description": "Curso de la librería React.js en el cual se cubre lo fundamental en relación a conceptos y aplicación inmediata",
     "url": "https://www.youtube.com/embed/ladwC6Lrs-M",
-    "image": "https://i3.ytimg.com/vi/ladwC6Lrs-M/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/ladwC6Lrs-M/maxresdefault.jpg"
     },
     {
     "id": 5,
@@ -38,7 +38,7 @@
     "categorie": "JavaScript",
     "description": "Curso práctico de uso de la librería React.js en el cual se realizan proyectos de diversa dificultad",
     "url": "https://www.youtube.com/embed/0C5yFwOYhAk",
-    "image": "https://i3.ytimg.com/vi/0C5yFwOYhAk/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/0C5yFwOYhAk/maxresdefault.jpg"
     },
     {
     "id": 6,
@@ -46,7 +46,7 @@
     "categorie": "JavaScript",
     "description": "Curso teorico, practico de React desde un nivel básico a intermedio-básico",
     "url": "https://www.youtube.com/embed/7iobxzd_2wY",
-    "image": "https://i3.ytimg.com/vi/7iobxzd_2wY/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/7iobxzd_2wY/maxresdefault.jpg"
     },
     {
     "id": 7,
@@ -54,7 +54,7 @@
     "categorie": "JavaScript",
     "description": "Curso sobre aspectos esenciales de JavaScript",
     "url": "https://www.youtube.com/embed/m55PTVUrlnA",
-    "image": "https://i3.ytimg.com/vi/m55PTVUrlnA/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/m55PTVUrlnA/maxresdefault.jpg"
     },
     {
     "id": 8,
@@ -62,7 +62,7 @@
     "categorie": "Python",
     "description": "Curso extremadamente completo sobre lo fundamental de Python.",
     "url": "https://www.youtube.com/embed/nLRL_NcnK-4",
-    "image": "https://i3.ytimg.com/vi/nLRL_NcnK-4/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/nLRL_NcnK-4/maxresdefault.jpg"
     },
     {
     "id": 9,
@@ -70,7 +70,7 @@
     "categorie": "Python",
     "description": "Curso de Python el cual abarca lo fundamental pero de una manera comprimida",
     "url": "https://www.youtube.com/embed/VchuKL44s6E",
-    "image": "https://i3.ytimg.com/vi/VchuKL44s6E/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/VchuKL44s6E/maxresdefault.jpg"
     },
     {
     "id": 10,
@@ -78,7 +78,7 @@
     "categorie": "Python",
     "description": "Curso de Python practico en el cual se aprenden",
     "url": "https://www.youtube.com/embed/th4OBktqK1I",
-    "image": "https://i3.ytimg.com/vi/th4OBktqK1I/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/th4OBktqK1I/maxresdefault.jpg"
     },
     {
     "id": 11,
@@ -86,7 +86,7 @@
     "categorie": "Python",
     "description": "Curso de Python enfocado en la programación orientada a objetos",
     "url": "https://www.youtube.com/embed/JeznW_7DlB0",
-    "image": "https://i3.ytimg.com/vi/JeznW_7DlB0/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/JeznW_7DlB0/maxresdefault.jpg"
     },
     {
     "id": 12,
@@ -94,7 +94,7 @@
     "categorie": "Python",
     "description": "Curso del Framework ágil Django de Python desde cero",
     "url": "https://www.youtube.com/embed/T1intZyhXDU",
-    "image": "https://i3.ytimg.com/vi/T1intZyhXDU/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/T1intZyhXDU/maxresdefault.jpg"
     },
     {
     "id": 13,
@@ -102,7 +102,7 @@
     "categorie": "HTML",
     "description": "Curso de HTML5 que cubre lo fundamental para estructurar páginas web",
     "url": "https://www.youtube.com/embed/kN1XP-Bef7w",
-    "image": "https://i3.ytimg.com/vi/kN1XP-Bef7w/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/kN1XP-Bef7w/maxresdefault.jpg"
     },
     {
     "id": 14,
@@ -110,7 +110,7 @@
     "categorie": "HTML",
     "description": "Curso de HTML5 de la plataforma FreeCodeCamp ideal para principiantes",
     "url": "https://www.youtube.com/embed/kUMe1FH4CHE",
-    "image": "https://i3.ytimg.com/vi/kUMe1FH4CHE/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/kUMe1FH4CHE/maxresdefault.jpg"
     },
     {
     "id": 15,
@@ -118,7 +118,7 @@
     "categorie": "HTML",
     "description": "Curso de HTML5 de la plataforma FreeCodeCamp ",
     "url": "https://www.youtube.com/embed/pQN-pnXPaVg",
-    "image": "https://i3.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpg"
     },
     {
     "id": 16,
@@ -126,7 +126,7 @@
     "categorie": "HTML",
     "description": "Curso de HTML5 de la plataforma FreeCodeCamp el cual presenta una introducción a programar junto con HTML",
     "url": "https://www.youtube.com/embed/GDGejH3SDNQ",
-    "image": "https://i3.ytimg.com/vi/GDGejH3SDNQ/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/GDGejH3SDNQ/maxresdefault.jpg"
     },
     {
     "id": 17,
@@ -134,7 +134,7 @@
     "categorie": "HTML",
     "description": "Curso Completo de HTML en español con más de 1 Millos de Vistas",
     "url": "https://www.youtube.com/embed/MJkdaVFHrto",
-    "image": "https://i3.ytimg.com/vi/MJkdaVFHrto/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/MJkdaVFHrto/maxresdefault.jpg"
     },
     {
     "id": 18,
@@ -142,7 +142,7 @@
     "categorie": "HTML",
     "description": "Curso Completo de HTML5 en español bastante comprensible y útil para principiantes",
     "url": "https://www.youtube.com/embed/vz4z0RLcAyk",
-    "image": "https://i3.ytimg.com/vi/vz4z0RLcAyk/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/vz4z0RLcAyk/maxresdefault.jpg"
     },
     {
     "id": 19,
@@ -150,7 +150,7 @@
     "categorie": "CSS",
     "description": "Curso para aprender CSS en español ideal para principiantes",
     "url": "https://www.youtube.com/embed/wZniZEbPAzk",
-    "image": "https://i3.ytimg.com/vi/wZniZEbPAzk/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/wZniZEbPAzk/maxresdefault.jpg"
     },
     {
     "id": 20,
@@ -158,7 +158,7 @@
     "categorie": "CSS",
     "description": "Curso para aprender CSS en español con más de 3.5 millones de vistas",
     "url": "https://www.youtube.com/embed/OWKXEJN67FE",
-    "image": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpg"
     },
     {
     "id": 21,
@@ -166,7 +166,7 @@
     "categorie": "CSS",
     "description": "Curso para aprender CSS desde cero ideal para principiantes",
     "url": "https://www.youtube.com/embed/N8V5JhasaSE",
-    "image": "https://i3.ytimg.com/vi/N8V5JhasaSE/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/N8V5JhasaSE/maxresdefault.jpg"
     },
     {
     "id": 22,
@@ -174,7 +174,7 @@
     "categorie": "CSS",
     "description": "Curso de aplicación de HTML y CSS con proyecto incluidos",
     "url": "https://www.youtube.com/embed/AXPASVeX74o",
-    "image": "https://i3.ytimg.com/vi/AXPASVeX74o/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/AXPASVeX74o/maxresdefault.jpg"
     },
     {
     "id": 23,
@@ -182,7 +182,7 @@
     "categorie": "CSS",
     "description": "Curso de HTML y CSS de la plataforma FreeCodeCamp con más de 1 millón de vistas en Español",
     "url": "https://www.youtube.com/embed/XqFR2lqBYPs",
-    "image": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpg"
     },
     {
     "id": 24,
@@ -190,14 +190,14 @@
     "categorie": "CSS",
     "description": "Curso de CSS muy completo con más de 11 horas de contenido",
     "url": "https://www.youtube.com/embed/n4R2E7O-Ngo",
-    "image": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpgImage preview"
+    "image": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpg"
     },
     {
     "title": "Python 5",
     "categorie": "Python",
     "description": "curso desde cero python",
     "url": "https://www.youtube.com/watch?v=nKPbfIU442g&ab_channel=SoyDalto",
-    "image": "https://www.twine.net/blog/wordpress/wp-content/uploads/2022/07/pythonlogo.pngImage preview",
+    "image": "https://www.twine.net/blog/wordpress/wp-content/uploads/2022/07/pythonlogo.png",
     "id": "25"
     }
     ],
